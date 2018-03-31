@@ -1,0 +1,35 @@
+
+body{
+  background-color: #616A6B;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
+
+    display: inline-block;
+    box-sizing: border-box;
+    font-size: 2em;
+}
+
+button{
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  font-size: 2em;
+}
+
+.signoutButton{
+  background-color: #EC7063;
+}
+button:hover {
+  opacity: 0.8;
+}
+.container{
+  padding: 16px;
+}
